@@ -1,0 +1,23 @@
+{
+  "name": "studentpractice-09node",
+  "version": "1.0.0",
+  "description": "A Text Adventure Game With Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesley-byte/StudentPractice-09Node.git"
+  },
+  "author": "lesley-byte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lesley-byte/StudentPractice-09Node/issues"
+  },
+  "homepage": "https://github.com/lesley-byte/StudentPractice-09Node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.6"
+  }
+}
