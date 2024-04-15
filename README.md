@@ -2,6 +2,10 @@
 
 In this activity, students will alter a simple text-based adventure game using Node.js, Inquirer, and their creativity!
 
+## Screenshot
+
+![screenshot](/images/screenshot.png)
+
 ## User Story
 
 As a player, I want to embark on an exciting adventure where I make choices that affect the outcome of the story.
